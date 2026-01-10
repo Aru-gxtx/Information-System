@@ -4,6 +4,18 @@ This project is a console-based C++ application designed to manage student recor
 
 The system features a menu-driven interface, making it easy to navigate through various functions such as adding new students, searching for specific records, and modifying existing data.
 
+<p align="center">
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Console_App-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Console App">
+  </a>
+</p>
+
 ## Features
 
 * **Add Records:** Capture student details including Last Name, First Name, Middle Initial, Age, and Gender.
